@@ -1,0 +1,8 @@
+﻿Every const, readonly static field has to be at the top.
+Every private field is at the top if there aren't static member data.
+
+After the fields, there are constructors. They sit after the fields, and before the properties and methods.
+
+Every property sits after the constructor and before the Methods.
+
+They are combined by logic. (ex. Start - End, etc).

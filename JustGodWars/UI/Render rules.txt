@@ -1,0 +1,5 @@
+﻿The ships are rendered to the console through a class Render with a method RenderOnConsole(IShip ship, ShipType type)
+Every ship should have a UI visualization in the plan. If not, we have to create one. Every ship has 7 rows height, the width is different.
+
+
+
